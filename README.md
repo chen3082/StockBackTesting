@@ -2,7 +2,9 @@
 Select US top 2000 market cap company to perform backtesting (in progress)
 
 ## Requirements
+
 yfinance==0.1.74
+
 backtrader==1.9.76
 
 ## Download the data
